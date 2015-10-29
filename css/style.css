@@ -15,8 +15,8 @@ section {
 
 	background-color: #E7CF4C;
   	background-size: cover;
-
 	font-size: 15px;
+	border-top: 1px solid #FFFFFF;
 }
 
 .objective {
@@ -29,7 +29,7 @@ section {
 
 h2 {
 	font-size: 32px;
-	color: blue;
+	color: yellow;
 }
 
 .first h2 {
